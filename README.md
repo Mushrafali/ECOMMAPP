@@ -21,5 +21,5 @@ Responsive Design: A fully responsive interface that provides a seamless shoppin
 
 Purpose:
 
-This eCommerce application is designed to meet the needs of both buyers and sellers by offering a reliable, secure, and efficient platform for online transactions. Whether you're shopping for everyday essentials or looking to discover new products, [Your eCommerce Application Name] makes the process easy and enjoyable.
+This eCommerce application is designed to meet the needs of both buyers and sellers by offering a reliable, secure, and efficient platform for online transactions. Whether you're shopping for everyday essentials or looking to discover new products, ECOMMAPP makes the process easy and enjoyable.
 
